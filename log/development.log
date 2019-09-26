@@ -2206,3 +2206,178 @@ Started GET "/assets/dist/user8-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:29:0
 
 
 Started GET "/assets/dist/default-50x50.gif" for 127.0.0.1 at 2019-09-25 21:29:09 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2019-09-25 21:55:29 -0500
+Processing by DashboardController#version2 as HTML
+  Rendered dashboard/version2.html.erb within layouts/application (2.1ms)
+  Rendered layouts/_head.html.erb (1482.0ms)
+  Rendered layouts/_navbar.html.erb (0.4ms)
+  Rendered layouts/_sidebar.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+  Rendered layouts/_control_sidebar.html.erb (0.3ms)
+Completed 200 OK in 1598ms (Views: 1587.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/__bootstrap.self-89a7ae10f4bbae83f00e1ccd3531f73c94e85e91bf422fd2a06e9717fdc28729.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/ionicons.self-42343f090632ef7ebcf136c4e007a5ebaa2d16ae24303a4670e4737548e1e7d7.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/externals/jquery-jvectormap-1.2.2.self-1be73ed60350d277b3f57d816c1c72cef89724fb447854bc7a2c24a8f8945278.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/dashboard_v2.self-983034ee251a4662c7c104987295a078f8c673f660ce5f68cada3e6d8475dcd3.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/font-awesome.self-2a86d2017f4b74f22943750b3b50b9cb753581bab96cbdaaf2df53f4c04c995b.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/dist/AdminLTE.self-af2eb548c0cf543f0a33a1a3ac77ba52915d9d46220648df7bd26ce3873c6d88.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/dist/skins/_all-skins.self-70aceccc850ab339550158aba11e3aa642ef51612ad4a718e33eb73cefffa6df.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/application.self-72864daf7fd70956c976299518d9c485b0b7f522e91d086f264ce679408576ab.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/dist/user2-160x160.jpg" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/bootstrap/affix.self-b2bd74404ab3c627c5129dcdd3bdc2fc0a9d4bff4e1b6f1bae96412f9a1e9723.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/bootstrap/alert.self-7c7aa23778284da0e4aa395a0a6d858c7efd891c9312fe71908b28292654ac0c.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/bootstrap/button.self-b7a8ce9f47662b97ab74ef3dd416e93d3a4f644b252307a28231976a0149feef.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/bootstrap/carousel.self-c2c0ad2347d3fdd8447abd9d5792efed40ad5afadc5e0de3001e34904a6f68ce.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:30 -0500
+
+
+Started GET "/assets/bootstrap/collapse.self-4db094cc14a1aafa93e51e6f298115323037bb9e24c060dd0de52f27446f6227.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.self-7efa4aa654357ae664a98ec52151c25cd4927eacd1fabe038d068d9344b62cbd.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/modal.self-4ca048907279f4bb9187ba2541ae5d03296917d5c42e8fef0b58ec31c8902f0f.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.self-e62629e47ba5fe8b7faaa745f2fef2ccdb1bfd56ffb4f95615684ef40c74bcc4.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/tab.self-7fbfa844201ceeb4b896e4d185a33df19a284fe461281b7c0f78dbea2ef6da5a.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/transition.self-3c74f1999fcbf39cfb240b67c9a9e900863859f82f53fb27e5a388fe5e1a1c5c.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.self-82858d5843f55bfed321ea59fc5b180f3d2a8afc498ebc4d665561110b807875.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap/popover.self-a1e6d4555fb912f0405099135eaddbe8273ba8f08323477a471d34419d57b446.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/jquery.sparkline.self-e1df00f337a175483090b2a8b5efd6beef05ad8545f57b9ff8e179acde53ec7c.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/externals/jvectormap/jquery-jvectormap-1.2.2.min.self-ca67ed96d299b98520de23b170a3e3ad9b948db2837f4dac1d0ed3f926dbb1c6.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/externals/jvectormap/jquery-jvectormap-world-mill-en.self-e2cabc45fdb5cd7fe1807f3c2408be8c841320a75598dc03c8d53a2fd4c7688e.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dashboard_v2.self-9b49312738408cffbd73e8eed996d32021e1190e3dde3528db392d10f59228c0.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/externals/jquery.slimscroll.self-62c48e5ac8b704bb21956c00c83e96650f5d2c41208aafcd116bcdd21b059367.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/externals/Chart.self-041adbe451556e1fde170e0f1efb2dcd2874bbbe1872478ab37f21c47e2fb67b.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/fastclick.self-2ef237ba874bf05f39b1fe6a3ad359ed6e5abe70f69553cc28f84dd7c8f0fe54.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/application.self-de8fad544dd7fab6f66a131625288f6553739a8eb7ddc927a6d6cf528d329dae.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/pages/dashboard_v2.self-869805de410f0ef8135439f45558f6a5ee9f54622e36b0566fc9ed028a64f9ec.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user4-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/adminlte.self-f6ed6b0f15d1da09eb0374371043f1ce11df53d0c16aa54b9cfa6712051ae7fd.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user7-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/adminlte_extra.self-9dee61e6aedc12476c0af5d8210fafc7df15f3fed8e9e60085e7f1ac1dd11dbe.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user6-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/demo.self-843614e9c716c72788a5b4a9003546dd21cd3f0a8c503319c1d06c94a4453e0b.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/default-50x50.gif" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user3-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user1-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user5-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/assets/dist/user8-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+
+
+Started GET "/assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+Started GET "/assets/ionicons-2ba7f20b1d8990e17a47fe3d88e4c766628aaa2baf1dd30fca0a0db59836f5f9.ttf?v=2.0.0" for 127.0.0.1 at 2019-09-25 21:55:31 -0500
+
+
+Started GET "/uielements/buttons.html" for 127.0.0.1 at 2019-09-25 21:55:34 -0500
+Processing by UielementsController#buttons as HTML
+  Rendered uielements/buttons.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_head.html.erb (118.6ms)
+  Rendered layouts/_navbar.html.erb (0.0ms)
+  Rendered layouts/_sidebar.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_control_sidebar.html.erb (0.0ms)
+Completed 200 OK in 235ms (Views: 234.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/uielements_buttons.self-25fa6bd3af4c35da5b83ff278c6418e50463ce9e824ea61d50b7f3b9e44156f2.css?body=1" for 127.0.0.1 at 2019-09-25 21:55:34 -0500
+
+
+Started GET "/assets/dist/user2-160x160.jpg" for 127.0.0.1 at 2019-09-25 21:55:34 -0500
+
+
+Started GET "/assets/dist/user3-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:34 -0500
+
+
+Started GET "/assets/dist/user4-128x128.jpg" for 127.0.0.1 at 2019-09-25 21:55:34 -0500
+
+
+Started GET "/assets/uielements_buttons.self-382270c6ac8f3f211c8096d9ccfdc7c08ce42fe4c72ecfa07f23dcab81f7a7fb.js?body=1" for 127.0.0.1 at 2019-09-25 21:55:34 -0500

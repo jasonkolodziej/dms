@@ -4,7 +4,7 @@ ruby '2.6.3' # declares the ruby version used by the application
 
 #   gem-name                            version-info          gem-definition
 #   --Core
-gem 'rails',                            '4.2.10'              # This is the web framework that we use in the app.
+gem 'rails',                            '4.2.11.1'              # This is the web framework that we use in the app.
 gem 'therubyracer',                     '0.12.3'              # Embeds the V8 JavaScript interpreter into Ruby -- lets you to run JS code in Ruby and Ruby code in JS.
 gem 'turbolinks',                       '5.0.1'               # Turbolinks makes your web application faster -- this might break current flow if AJAX is being heavily used.
 gem 'sass-rails',                       '5.0.6'               # Sass adapter for the Rails asset pipeline.

@@ -128,7 +128,7 @@ GEM
     orm_adapter (0.5.0)
     pace-rails (0.1.3)
       jquery-rails
-    puma (3.11.4)
+    puma (3.12.3)
     rack (1.6.11)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -235,7 +235,7 @@ DEPENDENCIES
   momentjs-rails (= 2.17.1)
   morris.js-rails (= 1.0.1)
   pace-rails (= 0.1.3)
-  puma (= 3.11.4)
+  puma (= 3.12.3)
   rails (= 4.2.11.1)
   sass-rails (= 5.0.6)
   select2-rails (= 4.0.3)

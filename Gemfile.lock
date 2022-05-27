@@ -129,7 +129,7 @@ GEM
     pace-rails (0.1.3)
       jquery-rails
     puma (3.11.4)
-    rack (1.6.11)
+    rack (1.6.13)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.11.1)
